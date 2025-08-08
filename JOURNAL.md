@@ -1,2 +1,3 @@
 # Journal
 this is a development journal of thought processes
+set up some stuff
