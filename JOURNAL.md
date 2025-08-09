@@ -1,3 +1,4 @@
 # Journal
 this is a development journal of thought processes
-set up some stuff
+
+switching to fltk for simple project

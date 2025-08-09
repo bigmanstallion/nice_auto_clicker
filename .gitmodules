@@ -1,0 +1,4 @@
+[submodule "dependencies/fltk"]
+	path = dependencies/fltk
+	url = https://github.com/fltk/fltk.git
+	shallow = true
